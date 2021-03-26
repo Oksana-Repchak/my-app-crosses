@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app-crosses/static/css/main.1bcaf94b.chunk.css",
+    "main.js": "/my-app-crosses/static/js/main.0edf3796.chunk.js",
+    "main.js.map": "/my-app-crosses/static/js/main.0edf3796.chunk.js.map",
+    "runtime-main.js": "/my-app-crosses/static/js/runtime-main.560d4066.js",
+    "runtime-main.js.map": "/my-app-crosses/static/js/runtime-main.560d4066.js.map",
+    "static/js/2.fe71ccf3.chunk.js": "/my-app-crosses/static/js/2.fe71ccf3.chunk.js",
+    "static/js/2.fe71ccf3.chunk.js.map": "/my-app-crosses/static/js/2.fe71ccf3.chunk.js.map",
+    "index.html": "/my-app-crosses/index.html",
+    "static/css/main.1bcaf94b.chunk.css.map": "/my-app-crosses/static/css/main.1bcaf94b.chunk.css.map",
+    "static/js/2.fe71ccf3.chunk.js.LICENSE.txt": "/my-app-crosses/static/js/2.fe71ccf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560d4066.js",
+    "static/js/2.fe71ccf3.chunk.js",
+    "static/css/main.1bcaf94b.chunk.css",
+    "static/js/main.0edf3796.chunk.js"
+  ]
+}
